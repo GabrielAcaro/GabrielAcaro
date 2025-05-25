@@ -4,7 +4,7 @@
 
 ---
 
-📍 I completed my **FCT** in **Finland** with the company **Casamedia KY** (400h).
+📍 I completed my **Internship (FCT – Workplace Training)** in **Finland** with the company **Casamedia KY** (400h).
 
 ---
 
