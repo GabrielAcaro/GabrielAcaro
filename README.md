@@ -1,32 +1,32 @@
 # Gabriel Acaro Sánchez
 
-## 🎓 Técnico en Sistemas Microinformáticos y Redes
+## 🎓 Technician in Microcomputer Systems and Networks
 
 ---
 
-📍 He realizado mis **FCT** en **Finlandia** con la empresa **Casamedia KY** (400h).
+📍 I completed my **FCT** in **Finland** with the company **Casamedia KY** (400h).
 
 ---
 
-### 💻 Tecnologías que he utilizado:
+### 💻 Technologies I’ve worked with:
 
 - **Flutter & Dart**
-- **Nodejs & MongoDB**
+- **Node.js & MongoDB**
 - **Git & GitHub**
 
 ---
 
-### 🌐 Competencias Web:
+### 🌐 Web Skills:
 
-- Nivel **Junior** en **HTML**, **CSS** y **JavaScript**
-
----
-
-### 🌍 Idiomas:
-
-- **Español**: Nativo
-- **Inglés**: Nivel equivalente a **B2**
+- **Junior** level in **HTML**, **CSS**, and **JavaScript**
 
 ---
 
-¡Gracias por visitar mi perfil!
+### 🌍 Languages:
+
+- **Spanish**: Native
+- **English**: Equivalent to **B2**
+
+---
+
+Thanks for visiting my profile!
