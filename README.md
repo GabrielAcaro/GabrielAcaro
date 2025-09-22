@@ -1,8 +1,11 @@
 # Gabriel Acaro Sánchez
 
-## 🎓 Technician in Microcomputer Systems and Networks
+## 🎓 Student of Multiplatform Application Development (Actually - 2027)
 
 ---
+# Titles
+
+## 🎓 Technician in Microcomputer Systems and Networks
 
 📍 I completed my **Internship (FCT – Workplace Training)** in **Finland** with the company **Casamedia KY** (400h).
 
