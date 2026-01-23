@@ -19,16 +19,16 @@
 
 ---
 
-### 🌐 Web Skills:
+### 🌐 Programming Skills:
 
-- **Junior** level in **HTML**, **CSS**, and **JavaScript**
+- **Junior** level in **HTML**, **CSS**, **Java**, **Flutter** and **MySQL**
 
 ---
 
 ### 🌍 Languages:
 
 - **Spanish**: Native
-- **English**: Equivalent to **B2**
+- **English**: Medium
 
 ---
 
