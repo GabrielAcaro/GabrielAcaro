@@ -11,24 +11,18 @@
 
 ---
 
-### 💻 Technologies I’ve worked with:
+### 💻 Coding Languages I’ve worked with:
 
-- **Flutter & Dart**
-- **Node.js & MongoDB**
-- **Git & GitHub**
-
----
-
-### 🌐 Programming Skills:
-
-- **Junior** level in **HTML**, **CSS**, **Java**, **Flutter** and **MySQL**
+- **Html, Css & JavaScript**
+- **Java & Dart**
+- **MySQL**
 
 ---
 
 ### 🌍 Languages:
 
-- **Spanish**: Native
-- **English**: Medium
+- **Spanish**
+- **English**
 
 ---
 
